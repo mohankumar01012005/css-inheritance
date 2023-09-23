@@ -9,7 +9,7 @@ body{
 
 /* Properties which are not inherited by the child element */
 body{
-  display: block;
+  display: inline;
   position: absolute;
   border-radius: 10px;
   background: fixed;
